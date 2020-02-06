@@ -1,0 +1,168 @@
+body{
+background-color:blue;}
+.header_bottom_left {
+	display:none;
+}
+.header_bottom_right {
+	width: 44%;
+}
+.soc-media{
+display:inline-block;
+margin-bottom:20px;
+
+}
+.search input[type="submit"] {
+	background: url('../images/search.png') no-repeat 7px 8px #e05b5b;
+	padding: 9.5px 20px;
+}
+.search input[type="text"] {
+	padding: 12px;
+}
+.search input[type="submit"]:hover {
+	background: url('../images/search.png') no-repeat 7px 8px #1bccf7;
+}
+ul.bag li.bag_right {
+	display: none;
+}
+i.bag_left {
+	width: 40px;
+	height: 42px;
+	background: url(../images/img-sprite.png)no-repeat -52px 1px #E05B5C;
+}
+.search {
+	width: 63%;
+}
+.images_3_of_2 {
+	width: 100%;
+	margin-right: 0;
+	float: none;
+}
+.span_3_of_2 {
+	width: 100%;
+	float: none;
+}
+.header-top-left {
+	display: none;
+}	
+.cssmenu ul {
+	float: none;
+	text-align: center;
+}
+ul.bag, ul.clock{
+	display: none;
+}
+.logo img{
+	width:90px;
+}
+.logo {
+	width: 100%;
+	float: none;
+	margin-right: 0;
+	padding-top:5px;
+}
+.search {
+	width: 100%;
+}
+.header_bottom {
+	display:none;
+}
+.input-group[class*="col-"] {
+    float: none;
+    padding-right: 0;
+    padding-left: 17px;
+    display: block;
+    width: 350px;
+}
+
+ img  .img-responsive  {
+    width: 100%;
+	height:300px;
+    
+}
+
+
+
+img .img-response  {
+    width: 100%;
+    height: 300px;
+}
+
+/*--- slider-css --*/
+.index_slider {
+	position: relative;
+	 display:none;
+}
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  display:none;
+}
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+   display:none;
+}
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+}
+ .sidebar #navi {
+position:static;
+
+}
+.sidebar #navi1{
+display:block;
+
+}
+.header_bottom-box, .menu_box, .header_top-box, .sellers_grid {
+    padding: 0px;
+}
+.men #logo2{
+margin-bottom:10px;
+display:block;
+}
+#logo1 {
+position:static;
+display:none;
+}
+.sidebar #navi2 {
+position:static;
+display:block;
+
+}
+
+.box2 {
+
+display:none;
+}
+.box3 {
+
+display:none;
+}
+.box4 {
+
+display:none;
+}
+.box5 {
+
+display:none;
+}
+.block{
+position:static;
+}
+.rslides img {
+  display: none;
+  height: 170px;
+  float: left;
+  width: 100%;
+  border: 0;
+}

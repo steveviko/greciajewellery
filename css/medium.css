@@ -1,0 +1,105 @@
+body{
+background-color:red;
+}
+.header-top-left {
+    width: max-content;
+    float: left;
+    margin-top: 5px;
+}
+.search {
+	width: 52%;
+}	
+.search input[type="submit"] {
+	background: url('../images/search.png') no-repeat 13px 9px #e05b5b;
+	padding: 10.5px 25px;
+}
+.search input[type="submit"]:hover {
+	background: url('../images/search.png') no-repeat 24px 10px #1bccf7;
+}
+.search input[type="text"] {
+	padding: 13px;
+}
+
+i.bag_left {
+	width: 40px;
+	height: 42px;
+	background: url(../images/img-sprite.png)no-repeat -52px 1px #E05B5C;
+}
+ul.bag {
+	
+    width: 31%;
+    float: right;
+    margin-top: -40px;
+	margin-left:30px;
+}
+.right-slide{
+width:70%;
+}	
+.heart {
+	bottom: 108px;
+	right: 170px;
+}
+.grid-flex h4 {
+	font-size: 0.85em;
+}
+.nbs-flexisel-item p {
+	font-size: 0.85em;
+}
+.link2 {
+	background: url(../images/cart1.png) no-repeat 5px 2px;
+	padding: 10px 15px 10px 45px;
+	font-size: 14px;
+}
+.thumb {
+	width: 273px;
+	height: 230px;
+	background-size: 100%;
+}
+span.countDays, span.countHours, span.countMinutes {
+	margin-right: 17px;
+}
+ul.navigation li {
+	margin-right: -7px;
+	font-size: 11px;
+}
+p.timeRefDays {
+	padding-left: 8px;
+}
+.thumb_desc h3 {
+	font-size: 1.3em;
+}
+.link3 {
+	font-size: 25px;
+}
+.right-grid {
+	width: 72%;
+	margin-right: 3%;
+}
+.right-grid p {
+	font-size:0.8125em;
+}
+.mens-toolbar .pager {
+	width: 42.5%;
+}
+.mens-toolbar .sort {
+	width: 31.5%;
+}
+.images_3_of_2 {
+	width: 46.2%;
+	margin-right: 2.6%;
+}
+.span_3_of_2 {
+	width: 50.3333%;
+}
+span.reducedfrom {
+	font-size: 22px;
+}
+.blog-poast-admin {
+	bottom: 9.6em;
+}
+.grid-flex {
+	min-height:100px;
+}
+.megamenu>li>a {
+		padding: 8px 8px;
+	}
